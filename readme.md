@@ -1,4 +1,4 @@
-# Cypress Training Core
+# Training Core Cypress
 
 Projeto para a execução de testes de integração (API) e de ponta a ponta (E2E) da plataforma [Training Core](https://github.com/RenanCardoso/training-core "Training Core") utilizando o Cypress. 
 
